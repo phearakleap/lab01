@@ -4,11 +4,11 @@
 
 | Member           | GitHub | Role (Sprint 1) | Shared hat  |
 | ---------------- | ------ | --------------- | ----------- |
-| Ung Phearakleap  | @phearakleap    | Product Owner   |             |
-| Buntong Anupheap | @anupheap       | Scrum Master    |             |
-| Kouch Souyheng   | @               | Developer       |             |
-| Ou Pechly        | @               | Developer       |             |
-| Yam Soksopheakna | @yamsoksopheakna| Developer       |             |
+| Ung Phearakleap  | @phearakleap     | Product Owner   |             |
+| Buntong Anupheap | @anupheap        | Scrum Master    |             |
+| Kouch Souyheng   | @kouchsouyheng-88| Developer       |             |
+| Ou Pechly        | @                | Developer       |             |
+| Yam Soksopheakna | @yamsoksopheakna | Developer       |             |
 
 
 Scrum Master rotation: Sprint 1 =Buntong Anupheap, Sprint 2 = Ung Phearakleap.
