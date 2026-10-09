@@ -21,7 +21,7 @@ The Product Owner stays the same all semester.
 ## Communication channels
 | Purpose    | Channel         | Expected response |
 | ---------- | --------------- | ----------------- |
-| Chat       |  Telegram       |                   |
+| Chat       |  Telegram       |          dsadsadasda         |
 | Work items | GitHub Issues   |                   |
 | Files      | this repository | n/a               |
 | Meetings   | Google Meet     |                   |
