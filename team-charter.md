@@ -6,8 +6,8 @@
 | ---------------- | -----------------| --------------- | -----------   |
 | Ung Phearakleap  | @phearakleap     | Product Owner   |  Dev-Ops, Business analyst, UX designer |
 | Buntong Anupheap | @anupheap        | Scrum Master    |               |
-| Kouch Souyheng   | @kouchsouyheng-88| Developer       |  Dev-Ops, Tester |
-| Ou Pechly        | @Ou-Pechly       | Developer       |             |
+| Kouch Souyheng   | @kouchsouyheng-88| Developer       |  Dev-Ops, Tester                        |
+| Ou Pechly        | @Ou-Pechly       | Developer       |  Dev-Ops, UX designer                   |
 | Yam Soksopheakna | @yamsoksopheakna | Developer       |             |
 
 
@@ -36,3 +36,4 @@ The Product Owner stays the same all semester.
 <!-- each member adds "- Name, date" in their own commit (Task 2) -->
 - Kouch Souyheng, 9/10/2026
 - Ung Phearakleap, 16/10/2026
+- Ou Pechly, 16/10/2026
