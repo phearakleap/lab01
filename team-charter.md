@@ -8,7 +8,7 @@
 | Buntong Anupheap | @anupheap        | Scrum Master    |               |
 | Kouch Souyheng   | @kouchsouyheng-88| Developer       |  Dev-Ops, Tester                        |
 | Ou Pechly        | @Ou-Pechly       | Developer       |  Dev-Ops, UX designer                   |
-| Yam Soksopheakna | @yamsoksopheakna | Developer       |             |
+| Yam Soksopheakna | @yamsoksopheakna | Developer       |  Dev-Ops, Business analyst              |
 
 
 Scrum Master rotation: Sprint 1 =Buntong Anupheap, Sprint 2 = Ung Phearakleap.
@@ -37,3 +37,4 @@ The Product Owner stays the same all semester.
 - Kouch Souyheng, 9/10/2026
 - Ung Phearakleap, 16/10/2026
 - Ou Pechly, 16/10/2026
+- Yam Soksopheakna, 16/10/2026
