@@ -7,7 +7,7 @@
 | Ung Phearakleap  | @phearakleap     | Product Owner   |             |
 | Buntong Anupheap | @anupheap        | Scrum Master    |             |
 | Kouch Souyheng   | @kouchsouyheng-88| Developer       |             |
-| Ou Pechly        | @                | Developer       |             |
+| Ou Pechly        | @Ou-Pechly       | Developer       |             |
 | Yam Soksopheakna | @yamsoksopheakna | Developer       |             |
 
 
@@ -21,7 +21,7 @@ The Product Owner stays the same all semester.
 ## Communication channels
 | Purpose    | Channel         | Expected response |
 | ---------- | --------------- | ----------------- |
-| Chat       |  Telegram       |          dsadsadasda         |
+| Chat       |  Telegram       |                   |
 | Work items | GitHub Issues   |                   |
 | Files      | this repository | n/a               |
 | Meetings   | Google Meet     |                   |
@@ -35,4 +35,4 @@ The Product Owner stays the same all semester.
 ## Agreed by
 <!-- each member adds "- Name, date" in their own commit (Task 2) -->
 - Kouch Souyheng, 9/10/2026
-gdfgdfgdflk;gl;df;g
+- Ung Phearakleap, 16/10/2026
