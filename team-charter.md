@@ -2,11 +2,11 @@
 
 ## Members and roles
 
-| Member           | GitHub           | Role (Sprint 1) | Shared hat  |
-| ---------------- | -----------------| --------------- | ----------- |
-| Ung Phearakleap  | @phearakleap     | Product Owner   |             |
-| Buntong Anupheap | @anupheap        | Scrum Master    |             |
-| Kouch Souyheng   | @kouchsouyheng-88| Developer       |             |
+| Member           | GitHub           | Role (Sprint 1) | Shared hat    |
+| ---------------- | -----------------| --------------- | -----------   |
+| Ung Phearakleap  | @phearakleap     | Product Owner   |                  |
+| Buntong Anupheap | @anupheap        | Scrum Master    |               |
+| Kouch Souyheng   | @kouchsouyheng-88| Developer       |  Dev-Ops, Tester |
 | Ou Pechly        | @Ou-Pechly       | Developer       |             |
 | Yam Soksopheakna | @yamsoksopheakna | Developer       |             |
 
