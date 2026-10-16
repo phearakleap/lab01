@@ -4,7 +4,7 @@
 
 | Member           | GitHub           | Role (Sprint 1) | Shared hat    |
 | ---------------- | -----------------| --------------- | -----------   |
-| Ung Phearakleap  | @phearakleap     | Product Owner   |                  |
+| Ung Phearakleap  | @phearakleap     | Product Owner   |  Dev-Ops, Business analyst, UX designer |
 | Buntong Anupheap | @anupheap        | Scrum Master    |               |
 | Kouch Souyheng   | @kouchsouyheng-88| Developer       |  Dev-Ops, Tester |
 | Ou Pechly        | @Ou-Pechly       | Developer       |             |
